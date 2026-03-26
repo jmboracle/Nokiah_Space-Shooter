@@ -1,7 +1,6 @@
 # Nokiah Space-Shooter [Game] (mobile-friendly)
 
 
-
 import pygame, random, sys, os
 
 pygame.init()
