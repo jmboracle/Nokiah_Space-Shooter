@@ -12,7 +12,7 @@ Features:
      - Enemy ship with movement
      - Shooting system with bullets
      - Explosive effects
-     - Current scores, level, & high_scores
+     - Current scores, level, & high-scores
      - On-Screen buttons:
           - Move Left/Right
           - Fire
