@@ -22,9 +22,12 @@ Features:
 How to run:
  1. Install Python IDE
  2. Install Pygame
- 3. Run the game
+ 3. Run the game:
+      ⇒ nokiah_space_shooter.py
 
 
 Screenshots:
+
+
  
 
